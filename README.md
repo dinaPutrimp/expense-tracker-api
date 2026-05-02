@@ -65,8 +65,8 @@ src/
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/username/expense-tracker-backend.git
-cd expense-tracker-backend
+git clone https://github.com/username/expense-tracker-api.git
+cd expense-tracker-api
 ```
 
 ### 2. Install dependencies
